@@ -1,4 +1,4 @@
-* Arun Kumar *
+**Arun Kumar**
 
 <!---
 - 👋 Hi, I’m @arunmastermind
