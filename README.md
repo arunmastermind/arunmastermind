@@ -12,14 +12,24 @@ Building intelligent systems that solve real-world problems using AI.
 
 ## 🧠 About Me
 
-I specialize in designing and deploying **AI-powered systems** focused on:
+- 🧠 AI Engineer specializing in **Natural Language Processing (NLP)** and **Computer Vision**
+- 🔗 Building AI-powered workflows using **LangChain**, AI agents, and automation tools like **n8n**
+- 🤖 Designing scalable AI systems and intelligent task automation pipelines
+- 🌱 Continuously exploring emerging AI architectures and agentic systems
+- 🌍 Passionate about using AI and programming to create positive global impact
+- 🎻 Violin enthusiast
 
-- Natural Language Processing (NLP)
-- Computer Vision
-- AI Agents & Automation
-- LLM Applications & Orchestration
+---
 
-My mission is to leverage Artificial Intelligence and software engineering to create meaningful impact and contribute to a better world through technology.
+## ⚙️ Core Expertise
+
+- Artificial Intelligence & Machine Learning  
+- NLP Systems & LLM Applications  
+- AI Agents & Workflow Automation  
+- LangChain Ecosystem  
+- Computer Vision Applications  
+- Backend Development & API Integration  
+- Intelligent Process Automation  
 
 ---
 
@@ -64,18 +74,6 @@ My mission is to leverage Artificial Intelligence and software engineering to cr
 - 🔁 Multi-agent orchestration  
 - ⚙️ Intelligent task automation pipelines  
 - 🚀 Production-ready LLM applications  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunmastermind&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunmastermind&layout=compact&theme=tokyonight)
-
-</div>
 
 ---
 
